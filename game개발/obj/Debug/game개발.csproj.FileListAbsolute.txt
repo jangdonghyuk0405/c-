@@ -1,0 +1,8 @@
+D:\C#Code\game개발\game개발\bin\Debug\game개발.exe.config
+D:\C#Code\game개발\game개발\bin\Debug\game개발.exe
+D:\C#Code\game개발\game개발\bin\Debug\game개발.pdb
+D:\C#Code\game개발\game개발\obj\Debug\game개발.csproj.AssemblyReference.cache
+D:\C#Code\game개발\game개발\obj\Debug\game개발.csproj.SuggestedBindingRedirects.cache
+D:\C#Code\game개발\game개발\obj\Debug\game개발.csproj.CoreCompileInputs.cache
+D:\C#Code\game개발\game개발\obj\Debug\game개발.exe
+D:\C#Code\game개발\game개발\obj\Debug\game개발.pdb
